@@ -85,5 +85,5 @@ print("NOSOTROS="+verboSinTerminacion+"emos")
 print("VOSOTROS="+verboSinTerminacion+"eis")
 print("ELLOS="+verboSinTerminacion+"en")
 
-
+#adrian
 
